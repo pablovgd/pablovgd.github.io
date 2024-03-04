@@ -5,11 +5,13 @@
 layout: default
 ---
 
-Blog about building and riding bikes.
+Welcome to my blog about building and riding bikes. I possibly might expand the topics a bit more since I can only afford to buy and build so much bikes. On this page the **images are clickable** and link to my main projects.
 
-1980's steel Godeau race bike:
+
+Grandfather's 1980's Steel  Race Bike:
+
 [![blue_bike](/docs/assets/bluebike/side_overview.jpg)](https://pablovgd.github.io/bikes/2024/02/29/godeau.html)
 
-1997 Giant CFR Pro Series:
+1997 Giant CFR Pro Series (coming soon):
 
-[![CFR](./docs/assets/giantcfr/side_wall.jpg)](https://pablovgd.github.io/bikes/2024/02/29/cfr.html)
+[![CFR](./docs/assets/giantcfr/cfr_detail.jpeg)](https://pablovgd.github.io/bikes/2024/02/29/cfr.html)

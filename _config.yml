@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pablo Vgd
-email: 
+title: Pablo's Velo Vault
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Riding and building bikes. Also into science, movies and DJ stuff.
 baseurl: "" # the subpath of your site, e.g. /blog

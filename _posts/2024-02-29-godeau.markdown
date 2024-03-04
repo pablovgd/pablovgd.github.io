@@ -8,10 +8,10 @@ categories: bikes
 
 ![side_shot](/docs/assets/bluebike/side_overview.jpg)
 
-## Introduction
+## Introduction and History
 
 
-This absolute beauty of a bike used to be the old race bike of my late grandfather. It spend a long time in the shed at my grandmother's place, until my sister decided she wanted to have it around as a bike for riding casually around the city. Back then, the bike looked like this:
+This absolute beauty of a bike made from steel Columbus tubing used to be the old race bike of my late grandfather. Godeau was the bike shop of Paul Godeau, the personal mechanic of Eddy Merckx. After his career as a pro bike mechanic, Paul opened his famous bike shop "Rijwielen Godeau / Cycles Godeau" in Halle, near Lot where my grandparents used to live. Even after his career as a pro rider, Eddy stayed loyal to Paul and visited his shop regularly for maintenance of his own race bikes. Back in the days, it was really common for bike shops to paint or even build there own frames and sell them with their own branding. After the death of my grandfather, it spend a long time in the shed at my grandmother's place, until my sister decided she wanted to have it around as a bike for riding casually around the city. Back then, the bike looked like this:
 
 ![starting_point](/docs/assets/bluebike/starting_point.jpg)
 
@@ -21,13 +21,13 @@ So yeah, pretty old school and while the frame was still looking amazing, the co
 * A decent low gear to get over the Flemish hills (don't underestimate these!!)
 
 
-## The build
+## The Build
 
 ### Choice of drivetrain components
 
-Since I decided a budget of €300~€400 for the restoration, my options to convert this into a relative modern looking bike were quite limited. Within this budget I looked for a groupset in the budget range of Shimano (Sora etc.), but quickly realized that Microshift also looked like a viable option to stay within budget. First thing to inspect before venturing further into the groupset rabbit hole, was the [rear dropout spacing ](https://www.sheldonbrown.com/frame-spacing.html). On this bike it measured 126mm, which meant I was stuck with using a 7 speed or less groupset. Since the frame is steel, I theoretically could have spread/cold set the frame, as described in the link above. Since I'm only a beginner mechanic, and this bike was a bit too valuable to use as a first time test, I decided to leave the frame as is.
+Since my sister and I settled on a budget of €300~€400 for the restoration, my options to convert this into a relative modern feeling bike were quite limited. Within this budget I looked for a groupset in the budget range of Shimano (Sora etc.), but quickly realized that Microshift also looked like a viable option to stay within budget. First thing to inspect before venturing further into the groupset rabbit hole, was the [rear dropout spacing](https://www.sheldonbrown.com/frame-spacing.html). On this bike it measured 126mm, which meant I was stuck with using a 7 speed or less groupset. Since the frame is steel, I theoretically could have spread/cold set the frame, as described in the link above. Since I'm only a beginner mechanic, and this bike was a bit too valuable to use as a first time test, I decided to leave the frame as is.
 
-So, as I was on a limited budget, a 2x7  build didn't seem like such a bad idea. This also meant I could keep the wheelset (at least I thought so, see later) and just replace the freewheel with a 7 speed one. Since the front chainrings were pretty big (53/42) I also wanted something that could handle at least a 30T or bigger in the back. Finally, drivetrain wise I settled on:
+So, as we were on a limited budget, a 2x7  build didn't seem like such a bad idea. This also meant I could keep the wheelset (at least I thought so, see later) and just replace the freewheel with a 7 speed one. Since the front chainrings were pretty big (53/42) I also wanted something that could handle at least a 30T or bigger in the back. Finally, concerning the drivetrain I settled on:
 * Shimano Claris RD-R2000 Rear Derailleur (8 speed but same pull ratio as 7 speed)
 * Shimano Sora FD-R3000 Front Derailleur
 * microSHIFT Road SB-R372 STI - 2x7-speed
@@ -39,12 +39,19 @@ So, as I was on a limited budget, a 2x7  build didn't seem like such a bad idea.
 
 ### Surprises along the way
 
-The first surprise came along when I wanted to check whether a 7 speed freewheel would fit on the current wheelset. When dismantling the freewheel from the wheel, I also removed the axle to find out it was broken clean in half! We managed to cut another axle that was lying around in the atelier to fix it. However, it turned out that the wheel hub was too wide to accommodate anything more than a 6 speed freewheel.
+The first surprise came along when I wanted to check whether or not a 7 speed freewheel would fit on the current wheelset. When dismantling the freewheel from the wheel, I also removed the axle and found out it was broken clean in half! We managed to cut another axle that was lying around in the atelier to fix it. However, it turned out that the wheel hub was too wide to accommodate anything more than a 6 speed freewheel. Luckily, Belgium has quite an active retro bike community and I quickly found a cool set of wheels in good condition for only €40 that could accommodate a 7 speed cassette (also easier to work with than freewheels).
+
+A second surprise came around when installing the new front derailleur. Apparently the new derailleur was just ever so slightly too bulky. This meant that with correct cable tension and limit (so that the chain doesn't rub against the derailleur cage), the  cage would still rub or even be stuck against the cranks. Eventually I resorted to reinstalling the old derailleur, which worked fine with the new shifter. Still, I had to adjust the limit so the cage didn't came in contact with the cranks, although this meant there was some chain rubbing in the biggest gears. I decided to settle on this solution, as I thought my sister wouldn't ride too much on the 53-11 (neither would I).
+
+A third and final surprise were the pedals. This was a thing where I really didn't put any thought in, as I assumed that pedals are one of the few things in bikes that are pretty uniform across the board and throughout the ages. However, I noticed the new pedals not threading in smoothly and after some research, I found out that the old Sugino crankset actually used [French threaded pedals](https://www.sheldonbrown.com/harris/french.html#pedals). Luckily, I managed to find a bike shop that had the correct taps lying around, so all in all it was an easy fix, although it did cost us €25 more.
 
 ### Finishing the build
 
-The bike stripped of components (except the ones that I would keep, pedals would also go) looked like this:
+First I removed all components that I wouldn't use in the final build. I  checked and greased all bolts to make sure everything was still snug in place without rust. I gave the bike and crankset a deep clean and finished with a spray  polish coating. The bike stripped of most components (except the ones that I would keep) looked like this:
+
 ![stripped](/docs/assets/bluebike/stripped.jpg)
+
+The rest of the build actually went quite smooth without too much trouble. I decided to spend some extra money on fancy white outer cables from Shimano to complete to blue & white look of the bike. I like the contrast of the black look of the modern components to the silver polished parts of the bike. Something that purists definitely won't appreciate. Blue cork ribbon bar tape from Cinelli matched perfectly and adds to the retro flair of the build. In retrospect, I'm really happy (as was my sister) with how to bike turned out. It meets all the criteria I set to be a quite modern and comfortable ride within the limitations of the frame and budget, while still staying true to its heritage.
 
 ## Gallery
 ![side_shot](/docs/assets/bluebike/side_overview.jpg)
@@ -56,3 +63,33 @@ The bike stripped of components (except the ones that I would keep, pedals would
 ![brakedet](/docs/assets/bluebike/brake_detail.jpg)
 
 ![frontbrake](/docs/assets/bluebike/front_brake.jpg)
+
+## Full Parts List
+
+Total price of all material used for the restoration came in at €356.46
+Everything used:
+
+| Part type          | Name|
+|--------------------|--------------------------------------------------|
+| Adapters downtube shifters  | Shimano Cable Stoppers  SM-CS50 |
+| Bottom bracket     | Original (?)                                       |
+| Chain            | Decathlon chain 3-8 speed                   |
+| Cassette           | Shimano CS-HG200-7 (12-32)                       |
+| Chainrings          | Original (Sugino, 53-42)                                        |
+| Crankset         | Original (Sugino)                                         |
+| Front derailleur     | Original (Shimano 105)                                    |
+| Rear Derailleur         | Shimano Claris RD-R2000                                |
+| Frame              | Steel Godeau                                           |
+| Shifting cables | Shimano Road Schakelkabelset                     |
+| Brake cables          | Shimano Dura Ace 7900 PTFE       |
+| Pedals            | Decathlon Van Rysel 520                    |
+| Brakes          | Original (Shimano 105)                                      |
+| Shifters   |  microSHIFT Road SB-R372 STI                                                |
+| Handlebars              | Original (3TTT)                                        |
+| Stem           | Original (3TTT)                                        |
+| Wielen             | Second hand                                        |
+| Saddle              | Original (Selle Italia)                                        |
+| Seatpost           | Original                                        |
+| Bartape          | Blue Cinelli Cork Ribbon Bar Tape                     |
+| Bottle cage       | Original                                        |
+| Tires             |  25mm Schwalbe Lugano II Clinchers                  |
