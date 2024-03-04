@@ -33,7 +33,7 @@ So, as I was on a limited budget, a 2x7  build didn't seem like such a bad idea.
 * microSHIFT Road SB-R372 STI - 2x7-speed
 * Shimano CS-HG200-7 cassette (12-32)
 
-![comonents](/docs/assets/bluebike/components.jpg)
+![components](/docs/assets/bluebike/components.jpg)
 
 
 
