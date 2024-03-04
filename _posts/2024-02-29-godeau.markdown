@@ -4,4 +4,55 @@ title:  "1980's Steel Godeau"
 date:   2024-02-29 15:24:22 +0100
 categories: bikes
 ---
-# Steel is real: 80's Godeau restoration
+# Steel is real: 1980's Godeau restoration
+
+![side_shot](/docs/assets/bluebike/side_overview.jpg)
+
+## Introduction
+
+
+This absolute beauty of a bike used to be the old race bike of my late grandfather. It spend a long time in the shed at my grandmother's place, until my sister decided she wanted to have it around as a bike for riding casually around the city. Back then, the bike looked like this:
+
+![starting_point](/docs/assets/bluebike/starting_point.jpg)
+
+So yeah, pretty old school and while the frame was still looking amazing, the components definitely had their best time behind them. It was build up with Shimano 105, so no too shabby, but shifters on the downtube in combination with a 5 speed freewheel meant that riding it came with some nuisances. Since my sister wanted to start riding a bit more, she asked me what was possible to make the bike a bit more rideable and suited for the 21th century. For me this meant I needed to end up with a few must-haves:
+* Shifters on the hoods
+* At least 25mm tires
+* A decent low gear to get over the Flemish hills (don't underestimate these!!)
+
+
+## The build
+
+### Choice of drivetrain components
+
+Since I decided a budget of €300~€400 for the restoration, my options to convert this into a relative modern looking bike were quite limited. Within this budget I looked for a groupset in the budget range of Shimano (Sora etc.), but quickly realized that Microshift also looked like a viable option to stay within budget. First thing to inspect before venturing further into the groupset rabbit hole, was the [rear dropout spacing ](https://www.sheldonbrown.com/frame-spacing.html). On this bike it measured 126mm, which meant I was stuck with using a 7 speed or less groupset. Since the frame is steel, I theoretically could have spread/cold set the frame, as described in the link above. Since I'm only a beginner mechanic, and this bike was a bit too valuable to use as a first time test, I decided to leave the frame as is.
+
+So, as I was on a limited budget, a 2x7  build didn't seem like such a bad idea. This also meant I could keep the wheelset (at least I thought so, see later) and just replace the freewheel with a 7 speed one. Since the front chainrings were pretty big (53/42) I also wanted something that could handle at least a 30T or bigger in the back. Finally, drivetrain wise I settled on:
+* Shimano Claris RD-R2000 Rear Derailleur (8 speed but same pull ratio as 7 speed)
+* Shimano Sora FD-R3000 Front Derailleur
+* microSHIFT Road SB-R372 STI - 2x7-speed
+* Shimano CS-HG200-7 cassette (12-32)
+
+![comonents](/docs/assets/bluebike/components.jpg)
+
+
+
+### Surprises along the way
+
+The first surprise came along when I wanted to check whether a 7 speed freewheel would fit on the current wheelset. When dismantling the freewheel from the wheel, I also removed the axle to find out it was broken clean in half! We managed to cut another axle that was lying around in the atelier to fix it. However, it turned out that the wheel hub was too wide to accommodate anything more than a 6 speed freewheel.
+
+### Finishing the build
+
+The bike stripped of components (except the ones that I would keep, pedals would also go) looked like this:
+![stripped](/docs/assets/bluebike/stripped.jpg)
+
+## Gallery
+![side_shot](/docs/assets/bluebike/side_overview.jpg)
+
+![crank](/docs/assets/bluebike/crank_detail.jpg)
+
+![back](/docs/assets/bluebike/back_side.jpg)
+
+![brakedet](/docs/assets/bluebike/brake_detail.jpg)
+
+![frontbrake](/docs/assets/bluebike/front_brake.jpg)
