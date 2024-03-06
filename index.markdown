@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Welcome to my blog about building and riding bikes. I possibly might expand the topics a bit more since I can only afford to buy and build so much bikes. On this page the **images are clickable** and link to my main projects.
+Welcome to my blog about building and riding bikes. I possibly might expand the topics a bit more since I can only afford to buy and build so many bikes. On this page the **images are clickable** and link to my main projects.
 
 
 Grandfather's 1980's Steel  Race Bike:
