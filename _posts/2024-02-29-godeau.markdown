@@ -80,14 +80,14 @@ Everything used:
 | Front derailleur     | Original (Shimano 105)                                    |
 | Rear Derailleur         | Shimano Claris RD-R2000                                |
 | Frame              | Steel Godeau                                           |
-| Shifting cables | Shimano Road Schakelkabelset                     |
+| Shifting cables | Shimano Road                      |
 | Brake cables          | Shimano Dura Ace 7900 PTFE       |
 | Pedals            | Decathlon Van Rysel 520                    |
 | Brakes          | Original (Shimano 105)                                      |
 | Shifters   |  microSHIFT Road SB-R372 STI                                                |
 | Handlebars              | Original (3TTT)                                        |
 | Stem           | Original (3TTT)                                        |
-| Wielen             | Second hand                                        |
+| Wheels             | Second hand                                        |
 | Saddle              | Original (Selle Italia)                                        |
 | Seatpost           | Original                                        |
 | Bartape          | Blue Cinelli Cork Ribbon Bar Tape                     |
