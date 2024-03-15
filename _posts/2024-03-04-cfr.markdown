@@ -4,10 +4,65 @@ title:  "1997 Giant CFR Pro Series"
 date:   2024-02-29 15:24:22 +0100
 categories: bikes
 ---
-# Tuning is not a crime: 90's carbon gone 1by
+# Tuning is not a crime: 90's carbon gone 1x
 
-Blog post coming soon...
+![side_shot](/docs/assets/giantcfr/side_wall.jpg)
 
-Sneak peek:
+## Introduction and History
 
-![side_shot](/docs/assets/giantcfr/cfr_detail.jpeg)
+## The build
+
+### Why 1x?
+
+### Gold chains: hot or not
+
+### Building and hickups
+
+## The Ride
+
+### 1x on road
+
+### 27 year old carbon
+
+## Gallery
+![side_shot](/docs/assets/giantcfr/side_wall.jpg)
+
+![side_shot_out](/docs/assets/giantcfr/side_garden.jpeg)
+
+![diagonal](/docs/assets/giantcfr/diagonal.jpeg)
+
+![brake](/docs/assets/giantcfr/back_brake.jpeg)
+
+![brake2](/docs/assets/giantcfr/back_brake_wall.jpeg)
+
+![cranks](/docs/assets/giantcfr/cranks.jpeg)
+
+![der](/docs/assets/giantcfr/derailleur.jpeg)
+
+![shift](/docs/assets/giantcfr/shifter.jpeg)
+
+## Full parts list
+
+| Component type       | Name                                                            |
+|--------------------|-----------------------------------------------------------------|
+| Adapters downtube shifters  | Shimano SM-CS50          |
+| Bottom bracket     | Praxis Works BSA M30 THRU                                       |
+| Cassette           | SunRace CSMX8 11-speed Cassette 11-42                           |
+| Chainring          | Garbaruk Easton Cinch Round 48T                                 |
+| Crankset          | Easton EA90                                                     |
+| Derailleur         | SRAM Apex 1 11-speed                  |
+| Frame              | Giant CFR Pro Series                                            |
+| Chain            | KMC X11EL Ti-N 11-speed                                    |
+| Pedals            | Look Keo Easy                                                   |
+| Brakes          | SRAM Apex                                    |
+| Shifters           | Sram Apex 1                                                     |
+| Handlebar              | Giant Contact                                                   |
+| Stem           | Deda                                                            |
+| Stem adapter  | Decathlon                         |
+| Wheels             | Bontrager Paradigm Comp                                         |
+| Saddle              | Pro Stealth carbon                                              |
+| Seatpost           | Zipp Service Course                            |
+| Bar tape          | Fizik Tempo Microtex Classic                         |
+| Bottle cages       |  Elite Custom Race Plus                          |
+| Tires             | Continental Grand Prix 5000 |
+| Inner tubes                   |        Vittoria competition latex                                                         |
