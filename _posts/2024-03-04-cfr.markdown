@@ -10,11 +10,21 @@ categories: bikes
 
 ## Introduction and History
 
+Last year I started a course in bike maintenance on Friday evenings. After a few lessons I decided I wanted to build up a bike myself, starting from a bare frame. I really liked the idea of figuring out what components would work well together and setting up the bike completely to my liking. Within a reasonable budget of course. Although if you are looking for price/quality, this probably isn't the build you're looking for. At first I wanted to go with something really old (think 70-80's steel), but after finishing the build for my sister, I decided I wanted something more modern that was capable of taking a 11spd group without having to meddle with the frame. At first I was really keen on finding something like a Cannondale CAAD series (partly because of the beautiful builds at https://www.hojlab.com/), Giant Peloton series or a Trek, so basically some high-end alloy stuff from the 2000's. However, I was hoping to get a frame for around €100~€150 and good deals were pretty scarce.
+
+Finally, I ended up with Giant CFR Pro Series. That's right, a carbon bike with aluminum lugs straight from the late 90's. History wise I couldn't find a lot about the bike, except that this was definitely one of the top level Giant frames of that time. It was probably raced by someone at some point, because the holders for a race number on the top tube seem to be used. The bike also made its appearance in the pro peloton as the bike of Team Giant – ZVVZ – AIS, being ridden by the likes of Jens Voigt! I got the frame in pretty good condition, including the accompanying aero fork and a Campagnolo headset.
+
+![frame_only](/docs/assets/giantcfr/frame_only.jpg)
+
+
+
 ## The build
 
-### Why 1x?
+### Components and concept
 
-### Gold chains: hot or not
+Inspired by hipster builds and YouTube stuff (think Chris Miller, Vegan Cyclist & Dylan Johnson), I really wanted to try and go for a 1x build. Although already widely adopted in the MTB & gravel scene, 1x setups on road bikes still remain a bit controversial. On my main road bike, I also wouldn't opt quickly for a 1x setup. It probably would be good enough for 85% of my riding, but the occasional Gran Fondo or crit race do require the flexibility of having a really low and high gear. But, for this bike, which I plan to either sell or use as a back-up for my road bike riding around Ghent (usually flat with the occasional punchy climb) 1x seemed like it would do the job.
+
+There aren't that many groupsets for 1x that support drop-bar shifters and mechanical rim brakes. I also could have gone with any old 2x road groupset and convert it to 1x with a custom chainring, but that would leave me with a pretty big low gear in the back.
 
 ### Building and hickups
 
