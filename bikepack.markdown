@@ -4,7 +4,7 @@ title: Bikepacking
 permalink: /bikepacking/
 ---
 
-On this page you'll find various documentation (blogplost, pictures, movies) of some bikepacking trips I did. Image are clickable and lead to a blogpost of the trip.
+On this page you'll find various documentation (blogposts, pictures, movies) of some bikepacking trips I did. Image are clickable and lead to a blogpost of the trip.
 
 # The 4 Rivers Path (South Korea) - 2020
 
