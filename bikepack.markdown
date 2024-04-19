@@ -21,3 +21,5 @@ On this page you'll find various documentation (blogposts, pictures, movies) of 
 
 
 # Tuscany Trail (Italy)
+
+Blog in progress...
