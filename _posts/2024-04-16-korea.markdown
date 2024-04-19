@@ -4,20 +4,20 @@ title:  "Bikepacking the 4 Rivers Path (South Korea)"
 date:   2024-04-16 15:24:22 +0100
 categories: trips
 ---
+Translated from an old forum post in Dutch.
 
-Translated from an old forum post in Dutch using ChatGPT3.5
-
-Original post (Dutch): [link](https://www.beyondgaming.be/threads/fietsen-in-het-buitenland.290/post-4956)
 
 Pictures: [link](https://www.dropbox.com/sh/gara8h4ghie223u/AADvYqLUIeIsriCk3s5okUSYa?dl=0)
 
 # Context
-Currently, I'm on exchange in South Korea (arrived just before the coronavirus situation escalated here and in Europe). Fortunately for me, the measures here have been quite moderate, and I really can't complain. Because I was getting a bit tired of the city (although, mind you, Seoul remains fascinating to visit) and because I needed a break from living with my roommate in a small room, I decided to venture out on my own. Luckily, Korea seems to be a hidden gem for cycling, and there's a bike route (almost entirely car-free!) from Seoul in the north to Busan in the south. After some Google searching, I booked a few hostels/Airbnbs and set off.
+I did this bikepack and wrote this blog while I was on exchange in South Korea (arrived just before the coronavirus situation escalated here and in Europe).
+
+Fortunately for me, the measures here have been quite moderate, and I really can't complain. Because I was getting a bit tired of the city (although, mind you, Seoul remains fascinating to visit) and because I needed a break from living with my roommate in a small room, I decided to venture out on my own. Luckily, Korea seems to be a hidden gem for cycling, and there's a bike route (almost entirely car-free!) from Seoul in the north to Busan in the south. After some Google searching, I booked a few hostels/Airbnbs and set off.
 
 ![coverpic](/docs/assets/korea/coverpic.jpg)
 
 # Day 1: Seoul --> Yeoju, 103km, 491 meters elevation gain.
-Got up early and took the metro from Incheon to Seoul. Rented a bike in Seoul including panniers, helmet, etc... Started the route around 10:30 am. Had immediate luck with the weather on the first day, not much wind and sun all day long. The bike route didn't disappoint either, almost entirely on a perfectly paved, wide, and car-free bike path. At the beginning, I had to dodge some children and families, but once outside Seoul, it was wonderfully calm. No problem with provisions either: every few kilometers, there was a small shop or coffee stand to rest and grab something to eat/drink. Yeoju made it immediately clear why half of the population lives in Seoul, a huge rural area along a highway with only one restaurant near my rather shady Airbnb. Eventually, had a good meal and managed to wash my clothes! Then I settled into the couch with a bottle of Makgeolli (local rice wine) and watched a movie.
+Got up early and took the metro from Incheon to Seoul. Rented a bike in Seoul including panniers, helmet, etc... Started the route around 10:30 am. Had immediate luck with the weather on the first day, not much wind and sun all day long. The bike route didn't disappoint either, almost entirely on a perfectly paved, wide, and car-free bike path. At the beginning, I had to dodge some children and families, but once outside Seoul, it was wonderfully calm. No problem with provisions either: every few kilometers, there was a small shop or coffee stand to rest and grab something to eat/drink. Yeoju made it immediately clear why half of the population lives in Seoul, a huge rural area along a highway with only one restaurant near my rather shady Airbnb. Eventually, I had a good meal and even managed to wash my clothes! Then I settled into the couch with a bottle of Makgeolli (local rice wine) and watched a movie.
 
 ![coverpic](/docs/assets/korea/day1.jpg)
 
@@ -47,7 +47,7 @@ A very fun but unexpectedly tough ride! Thunderstorms were predicted in the afte
 
 
 # Day 6: Namji --> Busan, 98km, 280 meters elevation gain.
-A flat ride to finish. Had amazing weather again for the first part of the route and a beautiful route. The last 30km were a bit too much: strong sea breeze right in the face and had to ride along a busy bike path when entering Busan.
+A flat ride to the finish. Had amazing weather again for the first part of the route and a beautiful route. The last 30km were a bit too much: strong sea breeze right in the face and had to ride along a busy bike path when entering Busan.
 
 Conclusion: I really enjoyed it. It was the perfect way to unwind alone and get to know Korea in a different way. I'm also extremely happy that I didn't have any trouble with the bike, no flat tires, no falls, etc. This was my first solo "bikepacking" trip, previously only done in groups with the Chiro.
 
