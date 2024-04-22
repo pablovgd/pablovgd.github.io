@@ -14,4 +14,4 @@ I'm a guy from Belgium that found a passion in riding and
  * 2021 Cinelli Zydeco
  * 1997 Giant CFR Pro Series
 
-<img align ="right;" src="/docs/assets/me_on_a_bike.png">
+<img align ="right;" src="/docs/assets/profile_pic.jpg">

@@ -5,13 +5,16 @@
 layout: default
 ---
 
-Welcome to my blog about building and riding bikes. I possibly might expand the topics a bit more since I can only afford to buy and build so many bikes. On this page the **images are clickable** and link to my main projects.
+Welcome to my blog about building and riding bikes. On this page the **images are clickable** and link to the main sections of the website.
 
+## Bike builds
 
-Grandfather's 1980's Steel  Race Bike:
+[![blue_bike](/docs/assets/bluebike/side_overview.jpg)](https://pablovgd.github.io/bikes/)
 
-[![blue_bike](/docs/assets/bluebike/side_overview.jpg)](https://pablovgd.github.io/bikes/2024/02/29/godeau.html)
+## Bikepacking
 
-1997 Giant CFR Pro Series:
+[![bikepack](./docs/assets/bikepack.jpeg)](https://pablovgd.github.io/bikepacking/)
 
-[![CFR](./docs/assets/giantcfr/side_wall.jpg)](https://pablovgd.github.io/bikes/2024/02/29/cfr.html)
+## About 
+
+[![myself](/docs/assets/me_on_a_bike.png)](https://pablovgd.github.io/about/)

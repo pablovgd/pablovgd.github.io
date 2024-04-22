@@ -8,5 +8,3 @@ categories: trips
 # Day 1
 
 Testing
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11091584366" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
