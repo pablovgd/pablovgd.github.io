@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Statistical data analysis of NorCal's tire size"
+title:  "Statistical data analysis of NorCal's tire size video"
 date:   2024-04-19 17:24:22 +0100
 categories: varia
 ---
