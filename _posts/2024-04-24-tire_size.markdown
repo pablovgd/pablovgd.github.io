@@ -12,7 +12,7 @@ First of all, I want to get it out of the way that I’m not “hating” on
 Jeff or his content, I actually like his channel quite a lot and have
 spent a lot hours watching his content. However, his latest videos, just
 like this one where he tests different tire sizes, are part of a trend
-of “bro-science” I see appearing a lot on YouTube lately. The intention
+of “bro-science” videos, which I see appearing a lot on YouTube lately. The intention
 is not malicious, but I think not enough nuance is giving about the
 statistical significance in these kind of videos. I think it should be
 made really clear that tests with such a limited sample size, are
@@ -98,10 +98,11 @@ of the time!
 
 The model we will evaluate looks (simplified) like this:
 
-**Time = Power + Tire size + Tiresize^2**
+**Time = B0 + B1 x Power + B2 x Tire size + B3 x Tiresize^2**
 
-I used the R function lm() to create this model and the function
-summary() to take a look at how the model performs.
+In order to create a model which we could use to predict new times, based on power and tire size, we need to estimate the terms B0, B1, B2 and B3.
+If you want to know how this is done mathematically, Google for "least squares regression". For now, just think of it as a method that finds a way to fit a curve through are data that tries to minimize the error between the curve and the actual data points. In R, this is done with the lm() function, after which we can check the results using the summary() function.
+
 
     ##
     ## Call:
@@ -129,7 +130,7 @@ Because this is a quadratic model, it’s not always as easy to interpret
 what’s happening here, so for now, I’ll keep it short.
 
 First, looking at power, our “suspicion” is confirmed. The estimated
-coefficient for power in our model is -1.3. This means, that if all
+coefficient for power (B1) in our model is -1.3. This means, that if all
 other factors are kept constant, based on this data, **an increase of
 power with 1 Watt will lead to a reduction in time of 1.3 seconds**.
 Moreover, the stars indicate that this term is significant! That means
@@ -143,7 +144,7 @@ dataset. Basically saying that, purely based on his gathered data,
 Jeff’s finding might as well been due to chance.
 
 Adding a little bonus, we can take a look at the confidence intervals of
-these estimates. Basically, they give the range of the estimate for
+these estimates of the coefficients. Basically, they give the range of the estimate for
 which we are 95% sure the estimate lies between those values.
 
     ##                   2.5 %      97.5 %
@@ -161,15 +162,15 @@ Ok, now that we established why Jeff should be a bit more careful in his
 conclusions (I really would love to go see him go full science mode and
 include enough repetitions of these experiments to get to a
 statistically significant level). Let’s cut him a bit more slack and try
-on more analysis.
+one more type of  analysis.
 
 ### Analysis with ANOVA using power and tire as categorical variables
 
 ANOVA is short for “analysis of variance” and basically also is some
 sort of a linear model. Thus, what we want to do is analyze the variance
 of the time. For this part, let’s rephrase Jeff’s claim to “32mm tires
-are faster independent of the power pushed”. So we reduce the problem
-to: where the 32mm tires faster, both in the high and low power test.
+are faster than 28 and 34mm tires independent of the power pushed”. So we reduce the problem
+to: were the 32mm tires faster, both in the high and low power test?
 
 For this, we won’t consider the tire size and power as numerical
 variables, but as **categorical variables**, and see if the time differs
@@ -179,10 +180,10 @@ Again, let’s start by looking at the data.
 
 ![](/docs/assets/tire_size_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
-Now
-that we categorized our data, we again see the story Jeff is telling us:
+
+Now that we categorized our data, we again see the story Jeff is telling us:
 higher power yields a lower time (we agree!) and 32mm is the fastest at
-every power (we don’t agree just yet!).
+both low and high power (we don’t agree just yet!).
 
 Now, let’s try and use the ANOVA method and see what we can learn from
 it’s output.
@@ -197,7 +198,7 @@ it’s output.
 These results again confirm what we saw earlier. Based on this data,
 there is **a significant difference in time between the observations at
 lower power, compared to high power, but there is no significant
-difference between the different sets of tires**.
+difference in time between the different sets of tires**.
 
 Finally, we can check the pairwise comparisons between the sets of
 tires. Here I applied the function TukeyHSD()
@@ -213,14 +214,14 @@ tires. Here I applied the function TukeyHSD()
     ## 34-28 -11.5 -44.56177 21.56177 0.3027699
     ## 34-32   9.0 -24.06177 42.06177 0.4146694
 
-So again, based on this data, the 32 isn’t faster than the 28, neither
+In the table you can see the pairwise comparisons between the different tire sizes and the estimated effect. You can also see the lower and upper boundary of the 95% confidence interval. However, these differences are deemed statistically insignificant (p adj is > 0.05). So again, based on this data, the 32 isn’t faster than the 28, neither
 is the 34.
 
 ## Conclusion
 
 Ok, so basically we did a lot of things to come to the conclusion: **based
 on Jeff’s data, we can say that pushing the pedals harder makes you
-faster, but that we are to uncertain of the effect of tire size**. Of
+faster, but that we are uncertain of the effect of tire size**. Of
 course, there is some truth in videos like this, and I really think Jeff
 has no ill intent and/or is being a shill for biking companies pushing
 wider tires. However, I do think it’s a slippery slope when videos like
@@ -229,7 +230,7 @@ most definitely not! I encourage content creators to put more effort in
 these things, maybe even consult some tutorials on statistics! I’m not
 saying they should be posting scientific research papers, but it will
 make it so much more reliable and informative if things like this are
-tested and analysed properly! I hope with this blog post I sparked some
+tested and analyzed properly! I hope with this blog post I sparked some
 interest in statistics among you, maybe you’ll end up Google-ing some of
 the stuff we did here! In any case, have fun cycling and be safe on the
 road!
