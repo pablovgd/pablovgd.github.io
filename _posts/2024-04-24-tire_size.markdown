@@ -72,7 +72,7 @@ visually.
 
 ![](/docs/assets/tire_size_files/figure-markdown_strict/unnamed-chunk-3-1.png)
 
-Visually, we can see that there seems the be a connection between power
+Visually, we can see that there seems the be a connection between tire size
 and time, however, it’s definitely not linear. What Jeff assumes in his
 video, and what can also slightly be seen here, is that there seems to
 be a **quadratic relationship** between tire size and time, leading to a
