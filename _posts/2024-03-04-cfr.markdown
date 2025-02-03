@@ -46,6 +46,8 @@ So, how does a 27 year old frame ride compared to modern stuff? Pretty good I wo
 
 UPDATE #2: apparently the cornering was pretty shite because the upper bearing in the headset was completely shut. Managed to find a spare bearing ring at a local bikeshop and the cornering is waaay smoother now! 
 
+UPDATE #3: After a while, the steering became less and less smooth again even with the new bearings. Alas, the headset had been damaged too much previously and the races were really worn. I changed the original silver headset with a black one, which also really suits the general look of the bike.
+
 ## Conclusion
 
 All in all, I'm really happy with how this project turned out. The looks of the bike are amazing and it performs more than adequately for its age and price/quality of components. Writing this, I rode approx. 500km on it, including a longer ride of ~100km on flat terrain and one of ~80km on hills and cobbles. Total cost of the project was €864, so by no means a full budget build, as I did chose to go with the components I liked and spent some extra on the cranks, chainring, tires, etc. On the other hand, I'd argue that a new bike for under €900  is not a bad deal, especially it being really unique and the feeling of riding something that you assembled yourself is really awesome. Sure, I wouldn't use it for really fast club rides and/races, but for casual spring and summer riding, commuting, rides with my girlfriend, etc. this bike really does it job very well. It doesn't fill a functional gap in my bike collection, but hey, if everything in live needed to be functional and efficient, it would be a boring mess. I guess that sentence really sums up the sentiment of this bike, nonsensical, 1x, gold chain, carbon as old as I am, pure fun!
@@ -83,7 +85,7 @@ All in all, I'm really happy with how this project turned out. The looks of the 
 | Brakes          | SRAM Apex                                    |
 | Shifters           | Sram Apex 1                                                     |
 | Handlebar              | Giant Contact                                                   |
-| Stem           | Deda                                                            |
+| Stem           | Zipp Service Course                                                            |
 | Stem adapter  | Decathlon                         |
 | Wheels             | Bontrager Paradigm Comp                                         |
 | Saddle              | Pro Stealth carbon                                              |
