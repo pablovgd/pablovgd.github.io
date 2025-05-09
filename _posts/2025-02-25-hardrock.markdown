@@ -1,0 +1,153 @@
+---
+layout: post
+title:  "1998 Specialized Hardrock"
+date:   2025-02-25 13:00:00 +0100
+categories: bikes
+---
+# 26 inch isn't dead:1998 Specialized Hardrock
+
+![side_shot](/docs/assets/specialized/side.jpeg)
+
+## Introduction
+
+Last autumn I felt the itch to start a new bike project. I enjoy having a project
+during winter times, it makes me look forward to spring and riding bikes in the sun.
+I'm not much of an offroad kinda guy. Even my gravel bike rarely sees any dirt except
+during bikepacking. Moreover, in winter I even run slick tires on the Cinelli, so that
+combined with fenders, it makes for a more comfortable road riding experience, especially
+when commuting. Of course, that means that I have no bike to ride offroad during the winter months.
+Et voila, I had a reason for yet another bike in the collection. Especially in Flanders,
+offroad riding is big in winter. A lot of local bike clubs organize winter rides through
+the sloppy mud in the cold and rain. It's a completely distinct cycling scene compared to
+the road, and one that I really never did experience fully. This time, compared to my last build, the Giant CFR,
+I wanted to keep the budget really tight, and sought to spend maximum 50-100 euro on a base frame/bike with
+hopefully as many things still useable. Finally, I landed on a 1998 Specialized Hardrock with a Rockshox suspension fork,
+for which I paid 50 euros.
+
+![base](/docs/assets/specialized/starting_point.jpg)
+
+## Concept
+
+After a quick assessment of what I had in store, the frame still
+seemed in really good condition, as did the bottom bracket (spinning freely without any coarse feeling or play!). The headset and fork suspension
+felt quite stiff, so I hoped I would be able to save those with a deep clean and some fresh grease.
+Brakes definitely needed new cables, but the calipers and levers all still seemed pretty OK. Drivetrain-wise
+everything seemed seized and rusty AF, albeit a deep clean + new cables would have probably revived the old 3x9 drivetrain.
+However, I was kinda set to upgrade the bike to a more "modern" MTB groupset, so I decided to ditch the old drivetrain
+and front derailleur to convert the bike to a 1x. Basic MTB shifter and derailleurs are
+apparently dirt cheap, so it seemed like a good idea to do it this way. I wanted to keep the crankset, as
+the polished silver color still looked really good and hoped I would get away with a bodge 1x by just mounting the middle
+ring to the crankset with a chain catcher. Nevertheless, changing to 1x also meant I would need new wheels, since the hub
+on the old wheels couldn't take a modern 10 or 11 speed cassette. I didn't feel to bad about this, as the wheels were banged
+up pretty hard and restoring them would have been quite the painful operation. Furthermore I would need a new saddle, pedals,
+some grips, bottle cages, ... all in all it seemed pretty reasonable to build this thing into a fun mud-machine without breaking the bank.
+
+
+
+## Stripping and building
+
+Stripping the bike went reasonably smooth and fast. After spraying a good amount of WD-40 around the bolts,
+all of them came loose pretty easy. The only thing that needed a bit (actually, a lot) of convincing to
+get loose, was the fork. Finally, some not so gentle taps with a rubber mallet made the stubborn fork pop
+out the frame. Both fork and headset bearings came out really rusty, but honestly looked quite fine after
+cleaning them, so I figured it would be a safe bet to just re-grease and use them. To my surprise, the fork
+only had one actual spring in one of the legs. Apparently this is normal for cheap-ass old suspension forks.
+
+
+![dfork](/docs/assets/specialized/dirty_fork.jpg)
+
+![cfork](/docs/assets/specialized/clean_fork.jpg)
+
+![cbear](/docs/assets/specialized/clean_bearing.jpg)
+
+![gbear](/docs/assets/specialized/grease_bearings.jpg)
+
+![clean_frame](/docs/assets/specialized/clean_frame.jpg)
+
+The build itself was a really pleasant experience. Having all cables external
+and only one derailleur to set up really is a joy. I managed to find some decent
+looking 26 inch rim brake wheels with a suitable hub and chose a Shimano 1x10
+drivetrain. For tires I chose 2 inch Conti Crosskings, not so fast, but they should provide
+ample of grip for muddy times. I'm also not quite sure about the tire clearance on this particular frame is, but figured
+2 inch should be a safe bet. White outer cables were a must on this bike in my opinion and I also
+think the blue grips look quite good. Silver bottle cages match the other silver components on the bike.
+The only real hickup during the build, was that the 10 speed change didn't fit the original middle chainring.
+So, I needed a 74 BCD chainring, ideally a narrow-wide one, but it was not easy finding one. Finally I ended up with
+a 32T chainring from TA Specialites, originally meant as the inner chainring of 3x road drivetrain.
+To compensate for the lack of a narrow-wide chainring, I decided to mount a chain catcher. That, in combination
+with the clutched derailleur should prevent any chain dropping for most types of riding.
+
+
+## The Ride
+
+At the moment of writing I only did one "real" ride with this bike, a 73 km mixed surface loop
+with a variety of non-technical dirt surfaces and asphalt. First things first, the bike is
+definitely too small for me. I have to pull the seatpost all the way out (a few cm past the
+min. insertion point) to get to saddle at a rideable height. This results in a quite aggressive
+fit with my weight leaning quite forward, so yeah, not the most comfortable for really long or
+technical rides, but on this ride, which was a good representation of intended use, it really was
+not that bad. Next to size, the other big limitation is that the 32T front ring in combination with
+the 26 inch wheels spins out really quick. It didn't annoy me on the dirt, but on some asphalt sections
+going 28-30km/h had me spinning at a high cadence. Other than those two points, the bike is really
+fun to ride though. Due to its small size and wheels it feels super nimble and aggressive to ride in
+dirt and around corners. The handlebar is pretty small as well compared to modern MTBs, which make it
+initially feel really nervous, but super fun at the same time. This is the kind of bike that takes you
+back to being a kid and skidding around the rear wheel all the time. The derailleur shifts super snappy
+and the brakes are really responsive as well. The headset does show some wear, so the steering can
+feel a bit rough sometimes, but nothing too problematic. I might chance the headset later on in the
+lifespan depending on how much I end up riding with this bike.
+
+![wild](/docs/assets/specialized/inwild.jpg)
+
+## Conclusion
+
+It's safe to say I'm still not an offroad kinda guy. Since I build this bike up,
+I only managed one offroad ride... Also, the Cinelli is back in gravel mode, so
+I probably wont be using this bike a lot until autumn/fall, maybe it will see some
+more filthy action than. Nevertheless, this project was a lot of fun, and even if
+I only get a couple of rides out of this every year, it still was worth it! So, just like
+the CFR, I'm keeping it for now, but might sell it later down the line if it really doesn't
+get used enough and/or I need space and money for a new build.
+
+Gallery and full parts list below.
+
+## Gallery
+![side_shot](/docs/assets/specialized/side.jpeg)
+
+![crank](/docs/assets/specialized/crank.jpeg)
+
+![fork](/docs/assets/specialized/fork.jpeg)
+
+![grass](docs/assets/specialized/grass.jpeg)
+
+![rear](docs/assets/specialized/rear.jpeg)
+
+![top](/docs/assets/specialized/top_tube.jpeg)
+
+![zoom](docs/assets/specialized/triangle.jpeg)
+
+![wheel](/docs/assets/specialized/tyre.jpeg)
+
+## Full parts list
+
+| Component type       | Name                                                            |
+|--------------------|-----------------------------------------------------------------|
+| Frame               | Specialized Hardrock 1998               |
+| Saddle              | Selle Italia                            |
+| Brake pads          | Shimano M70T3 V-Brake Brake Shoes       |
+| Grips               | ESI Grips Racer's Edge                  |
+| Brake cable housing | capgo Blue Line Brake Cable Housing     |
+| Brake cable         | capgo Blue Line Brake Cable             |
+| Shifter             | DEORE SL-M4100 10-speed                 |
+| Derailleur          | DEORE RD-M5120                          |
+| Chain guide         | XLC Chain guide CR-A18 - 34.9mm         |
+| Chain               | DEORE CN-HG54 10-speed                  |
+| Chainring           | TA Specialites Zelito 32T               |
+| Cassette            | deore cs m4100 11-46                    |
+| Outer shift cable   | Shimano OT-SP41 Shift Outer Casing      |
+| Wheels              | M-Wave 26"                              |
+| Tires               | Continental Cross King Wire  - 26x2.00" |
+| Stickers            | Rock Shox                               |
+| Bottle cages        | BBB Cycling EcoTank BBC-01              |
+| Pedals              | Shimano                                 |
+| Inner tubes         | Continental MTB - 26"                   |
