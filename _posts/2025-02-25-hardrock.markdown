@@ -118,13 +118,13 @@ Gallery and full parts list below.
 
 ![fork](/docs/assets/specialized/fork.jpeg)
 
-![grass](docs/assets/specialized/grass.jpeg)
+![grass](/docs/assets/specialized/grass.jpeg)
 
-![rear](docs/assets/specialized/rear.jpeg)
+![rear](/docs/assets/specialized/rear.jpeg)
 
 ![top](/docs/assets/specialized/top_tube.jpeg)
 
-![zoom](docs/assets/specialized/triangle.jpeg)
+![zoom](/docs/assets/specialized/triangle.jpeg)
 
 ![wheel](/docs/assets/specialized/tyre.jpeg)
 

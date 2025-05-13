@@ -14,3 +14,8 @@ Grandfather's 1980's Steel  Race Bike:
 1997 Giant CFR Pro Series:
 
 [![CFR](./docs/assets/giantcfr/side_wall.jpg)](https://pablovgd.github.io/bikes/2024/02/29/cfr.html)
+
+
+1998 Specialized Hardrock:
+
+[![Hard](./docs/assets/specialized/side.jpeg)](https://pablovgd.github.io/bikes/2025/02/25/hardrock.html)
