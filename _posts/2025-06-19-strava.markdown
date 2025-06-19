@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "9 Years on Strava: some data visualization"
+date:   2024-04-19 17:24:22 +0100
+categories: varia
+---
+## Introduction
+
+A few days ago, I got an email celebrating my ninth year anniversary on
+Strava. Whilst it would be more conventional to wait until my tenth
+year, I had some extra time on my hands and needed a diversion from
+work, while reigniting my love for some simple and fun data- exploring,
+analysis and visualization.
+
+So, without further ado, let’s delve into the data.
+
+Note: I might expand this later down the line.
+
+## First and last activty
+
+My first activity recorded on Strava took place in 2016, a 5km run:
+
+    ##            date           name minutes  km km.h sport_type
+    ## 2334 2016-05-19 5x finse piste    29.8 5.1 10.3        Run
+
+My latest activity recorded on Strava took place today, 22/05/2025, my
+daily commute:
+
+    ##         date         name minutes km km.h sport_type
+    ## 1 2025-05-22 Morning Ride    25.7 12   28       Ride
+
+## Yearly totals and trends
+
+### Number of activities
+
+Let’s take a look at my yearly number of activities, bearing in mind
+that we are missing parts of 2016 and 2025.
+
+
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+
+### Distance,time and speed
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+
+### Heart rate
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+
+## The extremes
+
+    ## # A tibble: 10 × 5
+    ##    category                             value unit    name                 sport
+    ##    <chr>                                <dbl> <chr>   <chr>                <chr>
+    ##  1 "Fastest Average Speed 🚵"    44.2 km/h    "WAOD elite 3 - Waa… Ride
+    ##  2 "Longest Distance 🛣️"        360.  km      "PARIS - BRUXELLES"  Ride
+    ##  3 "Longest Time ⌚"                    755   minutes "PARIS - BRUXELLES"  Ride
+    ##  4 "Highest Average HR ❤️"               171   bpm     "2018 afsluiten!"    Run  
+    ##  5 "Kilojoules 🔥"            10330.  kJ      "PARIS - BRUXELLES"  Ride
+    ##  6 "Most Suffer 🥵"             626   score   "Montañas Vacías dí… Ride
+    ##  7 "Greatest Elevation Gain ⛰️"         5282   meters  "Granfondo Marmotte… Ride
+    ##  8 "Most Kudos 👍"               78   #       "Gran Fondo Espace … Ride
+    ##  9 "Most PRs 🏅"                117   #       "Genieten \U0001f60… Ride
+    ## 10 "Most Comments 🗣️"            17   #       "PARIS - BRUXELLES"  Ride
+
+## About the gear
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-12-1.png)
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-13-1.png)
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+
+## What’s in a name
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-15-1.png)
+
+## Going places
+
+
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-16-1.png)
+
+
+
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-17-1.png)
