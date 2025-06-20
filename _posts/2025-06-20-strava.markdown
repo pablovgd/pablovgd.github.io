@@ -1,0 +1,228 @@
+---
+layout: post
+title:  "9 Years on Strava: some data visualization"
+date:   2025-06-20 12:24:22 +0100
+categories: varia
+---
+
+## Introduction
+
+A few days ago, I got an email celebrating my ninth year anniversary on
+Strava. Whilst it would be more conventional to wait until my tenth
+year, I had some extra time on my hands and needed a diversion from
+work, while reigniting my love for some simple and fun data- exploring,
+analysis and visualization.
+
+So, without further ado, let’s delve into the data.
+
+## First and last activty
+
+My first activity recorded on Strava took place in 2016, a 5km run:
+
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">date</th>
+<th style="text-align: left;">name</th>
+<th style="text-align: left;">minutes</th>
+<th style="text-align: left;">km</th>
+<th style="text-align: left;">km.h</th>
+<th style="text-align: left;">sport_type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">2334</td>
+<td style="text-align: left;">2016-05-19</td>
+<td style="text-align: left;">5x finse piste</td>
+<td style="text-align: left;">29.8</td>
+<td style="text-align: left;">5.1</td>
+<td style="text-align: left;">10.3</td>
+<td style="text-align: left;">Run</td>
+</tr>
+</tbody>
+</table>
+
+My latest activity recorded on Strava took place today, 22/05/2025, my
+daily commute:
+
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">date</th>
+<th style="text-align: left;">name</th>
+<th style="text-align: left;">minutes</th>
+<th style="text-align: left;">km</th>
+<th style="text-align: left;">km.h</th>
+<th style="text-align: left;">sport_type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">2025-05-22</td>
+<td style="text-align: left;">Morning Ride</td>
+<td style="text-align: left;">25.7</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">28</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+</tbody>
+</table>
+
+## Yearly totals and trends
+
+This sections browses through a few yearly totals and trends I observed
+in the activities.
+
+### Number of activities
+
+Let’s take a look at my yearly number of activities, bearing in mind
+that we are missing parts of 2016 and 2025:
+
+From the image below, it's clear that I started sporting a lot more during
+COVID19 (2020-2021), but that I kept increasing afterwards when I started working (2021-2022).
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+
+Investigating which types of activities (both as absolute number in the first
+  image and as relative amount in the second), it becomes clear that I made
+  a pretty big shift from running to cycling. In 2021 there is a lot of ebike
+  riding as well, as I spend three months commuting by ebike.
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+
+### Distance,time and speed
+
+Next, instead of number of activities, let's take a look at the actual time
+spend. Here, it becomes clear that while my number of activities did not keep
+increasing, my time did.
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+
+Naturally, as I started cycling more, distance covered per year also increased
+a lot:
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+
+
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+
+### Heart rate
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+
+## The extremes
+
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 46%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">category</th>
+<th style="text-align: right;">value</th>
+<th style="text-align: left;">unit</th>
+<th style="text-align: left;">name</th>
+<th style="text-align: left;">sport</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Fastest Average Speed 🚴️</td>
+<td style="text-align: right;">44.2</td>
+<td style="text-align: left;">km/h</td>
+<td style="text-align: left;">WAOD elite 3 - Waasmunster: 10/14
+ronden</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Longest Distance 🛣️</td>
+<td style="text-align: right;">360.2</td>
+<td style="text-align: left;">km</td>
+<td style="text-align: left;">PARIS - BRUXELLES</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Longest Time ⌚</td>
+<td style="text-align: right;">755.0</td>
+<td style="text-align: left;">minutes</td>
+<td style="text-align: left;">PARIS - BRUXELLES</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Highest Average HR ❤️</td>
+<td style="text-align: right;">171.0</td>
+<td style="text-align: left;">bpm</td>
+<td style="text-align: left;">2018 afsluiten!</td>
+<td style="text-align: left;">Run</td>
+</tr>
+<tr>
+<td style="text-align: left;">Kilojoules 🔥</td>
+<td style="text-align: right;">10330.2</td>
+<td style="text-align: left;">kJ</td>
+<td style="text-align: left;">PARIS - BRUXELLES</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Most Suffer 😰</td>
+<td style="text-align: right;">626.0</td>
+<td style="text-align: left;">score</td>
+<td style="text-align: left;">Montañas Vacías día 5</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Greatest Elevation Gain ⛰️</td>
+<td style="text-align: right;">5282.0</td>
+<td style="text-align: left;">meters</td>
+<td style="text-align: left;">Granfondo Marmotte des Alpes</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Most Kudos 👍</td>
+<td style="text-align: right;">78.0</td>
+<td style="text-align: left;">#</td>
+<td style="text-align: left;">Gran Fondo Espace Cycles Etalle</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Most PRs 🏅</td>
+<td style="text-align: right;">117.0</td>
+<td style="text-align: left;">#</td>
+<td style="text-align: left;">Genieten 😍</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+<tr>
+<td style="text-align: left;">Most Comments 🗣</td>
+<td style="text-align: right;">17.0</td>
+<td style="text-align: left;">#</td>
+<td style="text-align: left;">PARIS - BRUXELLES</td>
+<td style="text-align: left;">Ride</td>
+</tr>
+</tbody>
+</table>
+
+## About the gear
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-12-1.png)
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-13-1.png)
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+
+## What’s in a name
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-15-1.png)
+
+## Going places
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-16-1.png)
+
+![](strava_files/figure-markdown_strict/unnamed-chunk-17-1.png)
