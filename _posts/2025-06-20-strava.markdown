@@ -15,7 +15,7 @@ analysis and visualization.
 
 So, without further ado, let’s delve into the data.
 
-## First and last activty
+## First and last activity
 
 My first activity recorded on Strava took place in 2016, a 5km run:
 
@@ -83,16 +83,16 @@ that we are missing parts of 2016 and 2025:
 From the image below, it's clear that I started sporting a lot more during
 COVID19 (2020-2021), but that I kept increasing afterwards when I started working (2021-2022).
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-4-1.png)
 
 Investigating which types of activities (both as absolute number in the first
   image and as relative amount in the second), it becomes clear that I made
   a pretty big shift from running to cycling. In 2021 there is a lot of ebike
   riding as well, as I spend three months commuting by ebike.
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
 ### Distance,time and speed
 
@@ -100,20 +100,20 @@ Next, instead of number of activities, let's take a look at the actual time
 spend. Here, it becomes clear that while my number of activities did not keep
 increasing, my time did.
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-7-1.png)
 
 Naturally, as I started cycling more, distance covered per year also increased
 a lot:
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-8-1.png)
 
 
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
 ### Heart rate
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-10-1.png)
 
 ## The extremes
 
@@ -211,18 +211,18 @@ ronden</td>
 
 ## About the gear
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-12-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-12-1.png)
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-13-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-13-1.png)
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-14-1.png)
 
 ## What’s in a name
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-15-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-15-1.png)
 
 ## Going places
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-16-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-16-1.png)
 
-![](strava_files/figure-markdown_strict/unnamed-chunk-17-1.png)
+![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-17-1.png)
