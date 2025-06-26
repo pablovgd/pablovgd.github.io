@@ -88,7 +88,7 @@ COVID19 (2020-2021), but that I kept increasing afterwards when I started workin
 Investigating which types of activities (both as absolute number in the first
   image and as relative amount in the second), it becomes clear that I made
   a pretty big shift from running to cycling. In 2021 there is a lot of ebike
-  riding as well, as I spend three months commuting by ebike.
+  riding as well, as I spent three months commuting by ebike.
 
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
@@ -107,15 +107,31 @@ a lot:
 
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-8-1.png)
 
-
+Now, taking a look at my average speed each year for both cycling and running.
+Starting with cycling, the graph shows my average speed steadily increasing,
+and interestingly the variance also lowering. A cool thing to spot in the boxplots
+are the large amount of outliers at 40+ km/h in 2022, the year where I tried
+out racing at local kermesse crits in Flanders. The data for running also shows an interesting
+trend. Recall that I started cycling more and more from 2020 onwards? This is
+also clearly shown here, as the average speeds declines from its peak at 2019.
+Still, looking at the outliers, my fastest running happened in 2024 and 2025!
+Not because my running is now in peak form, but because I sometimes attend a
+5km fun race organized by my university at which I often (always) go all out.
 
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
 ### Heart rate
 
+Average heart rate data tells a similar story, illustrated by trending towards
+a lower average heart rate since I started cycling more. After the drastic drop
+in average heart rate from 2019 to 2021, it stays quite constant, although I still
+observe the mean slightly decreasing every year, as does the variation.
+
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-10-1.png)
 
 ## The extremes
+
+The table beneath shows some of my most "extreme" stats extracted from Strava:
 
 <table>
 <colgroup>
@@ -209,20 +225,62 @@ ronden</td>
 </tbody>
 </table>
 
+PS: if you are interested why someone would cycle 360km from Paris to Brussels,
+check out this awesome film by Charles, a good friend of mine who now started
+his own custom wheel brand: https://www.pacq.cc/stories
+
 ## About the gear
+
+Currently, I own four bikes (oopsie): two race bikes (modern Giant TCR and retro
+Giant CFR), a gravel bike (Cinelli Zydeco) and a retro MTB (Specialized Hardrock).
+
+First, looking at the relative bike use each year, it is clear that the Cinelli
+quickly became my favorite bike to ride after I bought it in 2022. I still love
+my TCR as well, but the Cinelli's versatility (pannier rack, mudguards, clearance
+for 40mm tires, disc brakes, ...) make it super suited to use all year round and for commuting to work.
+The TCR on the other hand, is a pure race bike with carbon wheels, rim brakes and clearance for 25mm
+tires. So after buying the Cinelli, it quickly became the "good weather only" bike.
 
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-12-1.png)
 
+Looking at the average speed per year, we identify some logical patterns and can
+see that on average, I ride faster with my carbon race bike as compared to my alloy
+gravel bike (but not much tho!). High and low outliers for respectively the TCR and the
+Cinelli make sense: TCR is used for racing and I did a few bikepacking trips with
+the Cinelli.
+
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-13-1.png)
+
+Same for shoes (attention, y-axis is the pace in min/km), so lower is faster!
 
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-14-1.png)
 
 ## What’s in a name
 
+This wordcloud is by far one of my favorite visualizations of the Strava data.
+The biggest word, "Vitesse" is the name of my cycling club: Vitesse 9000. It's
+also nice to see that the name of my girlfriend and the names of some of my best
+friends pop-up as big words, showing that cycling truly is a social hobby for me.
+
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-15-1.png)
 
 ## Going places
 
+Finally, I overlayed the start locations of my rides on the maps of Europe and
+Belgium (the only other countries I used Strava outside Europe would bike Canada
+  and South-Korea).
+
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-16-1.png)
 
 ![](/docs/assets/strava_files/figure-markdown_strict/unnamed-chunk-17-1.png)
+
+## Conclusion
+
+There is lots of fun stuff to do with the data that can be extracted from Strava.
+I'm currently working on a simple R tool so anybody can upload there Strava data
+as .csv to generate a report like this. I might extend it later with more in depth
+analysis and/or make it interactive, but this might be a long term thing...
+
+You can already download your own Strava data using Thorben's awesome tool: https://entorb.net/strava-streamlit/
+Log in with Strava, cache the data, go to "activity list" and when hovering over the table you get the option
+to download it as .csv
