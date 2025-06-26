@@ -7,6 +7,10 @@ layout: default
 
 Welcome to my blog about building and riding bikes. On this page the **images are clickable** and link to the main sections of the website.
 
+## stravaReportR
+
+[![strva](/docs/assets/stravalogo.png)](https://pablovgd.shinyapps.io/stravareportr/)
+
 ## Bike builds
 
 [![blue_bike](/docs/assets/bluebike/side_overview.jpg)](https://pablovgd.github.io/bikes/)
@@ -15,6 +19,6 @@ Welcome to my blog about building and riding bikes. On this page the **images ar
 
 [![bikepack](./docs/assets/bikepack.jpeg)](https://pablovgd.github.io/bikepacking/)
 
-## About 
+## About
 
 [![myself](/docs/assets/me_on_a_bike.png)](https://pablovgd.github.io/about/)
