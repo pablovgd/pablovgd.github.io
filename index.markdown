@@ -9,7 +9,7 @@ Welcome to my blog about building and riding bikes. On this page the **images ar
 
 ## stravaReportR
 
-<a href="https://pagedart.com">
+<a href="https://pablovgd.shinyapps.io/stravareportr/">
   <img src="/docs/assets/stravalogo.png" width="100">
 </a>
 
