@@ -233,7 +233,7 @@ ronden</td>
 
 PS: if you are interested why someone would cycle 360km from Paris to Brussels,
 check out this awesome film by Charles, a good friend of mine who now started
-his own custom wheel brand: https://www.pacq.cc/stories
+his own custom wheel brand: [pacq.cc](https://www.pacq.cc/stories)
 
 ## About the gear
 
@@ -287,8 +287,8 @@ I'm currently working on a simple R tool so anybody can upload there Strava data
 as .csv to generate a report like this. I might extend it later with more in depth
 analysis and/or make it interactive, but this might be a long term thing...
 
-The tool is available via: https://pablovgd.shinyapps.io/stravareportr/
+The tool is available via: [stravaReportR](https://pablovgd.shinyapps.io/stravareportr/)
 
-You can already download your own Strava data using Torben's awesome tool: https://entorb.net/strava-streamlit/
+You can already download your own Strava data using Torben's awesome tool: [Torben's App](https://entorb.net/strava-streamlit/).
 Log in with Strava, cache the data, go to "activity list" and when hovering over the table you get the option
 to download it as .csv
