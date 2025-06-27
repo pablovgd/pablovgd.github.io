@@ -15,6 +15,12 @@ analysis and visualization.
 
 So, without further ado, let’s delve into the data.
 
+You can make your own report using the stravaReportR app, click on the logo below:
+
+<a href="https://pablovgd.shinyapps.io/stravareportr/">
+  <img src="/docs/assets/stravalogo.png" width="100">
+</a>
+
 ## First and last activity
 
 My first activity recorded on Strava took place in 2016, a 5km run:
@@ -281,6 +287,8 @@ I'm currently working on a simple R tool so anybody can upload there Strava data
 as .csv to generate a report like this. I might extend it later with more in depth
 analysis and/or make it interactive, but this might be a long term thing...
 
-You can already download your own Strava data using Thorben's awesome tool: https://entorb.net/strava-streamlit/
+The tool is available via: https://pablovgd.shinyapps.io/stravareportr/
+
+You can already download your own Strava data using Torben's awesome tool: https://entorb.net/strava-streamlit/
 Log in with Strava, cache the data, go to "activity list" and when hovering over the table you get the option
 to download it as .csv
