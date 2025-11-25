@@ -8,8 +8,7 @@ On this page you'll find various documentation (blogposts, pictures, movies) of 
 <br /><br />
 # Tuscany Trail (Italy)
 
-
-{% include youtube_2.html id="ofw8X0UUjIs" %}
+<iframe width="640" height="390" src="https://www.youtube.com/embed/ofw8X0UUjIs?si=TNTs9KlnEhQrxqfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br /><br />
 # Montañas vacías (Spain) - 2023
