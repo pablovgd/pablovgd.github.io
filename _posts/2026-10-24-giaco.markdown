@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "2000 something Giacomelli MTB"
+date:   2026-10-24 13:00:00 +0100
+categories: bikes
+---
+# Reviving a well-used MTB
+
+![side_shot](/docs/assets/specialized/side.jpeg)
+
+
+
+
+## Gallery
+
+
+## Full parts list
+
+| Component type       | Name                                                            |
+|--------------------|-----------------------------------------------------------------|
+| Frame               | Specialized Hardrock 1998               |
+| Saddle              | Selle Italia                            |
+| Brake pads          | Shimano M70T3 V-Brake Brake Shoes       |
+| Grips               | ESI Grips Racer's Edge                  |
+| Brake cable housing | capgo Blue Line Brake Cable Housing     |
+| Brake cable         | capgo Blue Line Brake Cable             |
+| Shifter             | DEORE SL-M4100 10-speed                 |
+| Derailleur          | DEORE RD-M5120                          |
+| Chain guide         | XLC Chain guide CR-A18 - 34.9mm         |
+| Chain               | DEORE CN-HG54 10-speed                  |
+| Chainring           | TA Specialites Zelito 32T               |
+| Cassette            | deore cs m4100 11-46                    |
+| Outer shift cable   | Shimano OT-SP41 Shift Outer Casing      |
+| Wheels              | M-Wave 26"                              |
+| Tires               | Continental Cross King Wire  - 26x2.00" |
+| Stickers            | Rock Shox                               |
+| Bottle cages        | BBB Cycling EcoTank BBC-01              |
+| Pedals              | Shimano                                 |
+| Inner tubes         | Continental MTB - 26"                   |
