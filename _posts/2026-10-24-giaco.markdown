@@ -8,6 +8,27 @@ categories: bikes
 
 ![side_shot](/docs/assets/giaco/side_new.JPG)
 
+## Introduction 
+
+A good friend of mine asked me if I could do some maintenance on his MTB. A quite old Giacomelli 26 inch workhorse that has received a fair beating. I got the bike in a pretty deplorable condition: 
+
+![side_shot_2](/docs/assets/giaco/side_old.jpg)
+
+Nevertheless, the bike itself defintly had potential and had a lot of good quality components installed: Ritchey seatpost, stem and headset, Shimano Deore XT groupset (with integrated shifters in the brakes; I had never seen this on a MTB!).
+
+## Diagnosis and work to do
+
+Apart from first needing a thorough clean, there was quite a lot to do to get this bike in a safely rideable and also enjoyable state.
+
+- Tires needed replacement
+- Brakes did not work whatsover
+- Shifting also was completely dead
+- Saddle and grips were pretty destroyed
+- Chain and cassette were rusted and worn
+- Headset bearings were really crunchy
+- Locking mechanism for the suspension was broken
+
+
 
 
 
